@@ -1,0 +1,21 @@
+{
+  "name": "owf",
+  "version": "7.0.1",
+  "homepage": "https://github.com/cgross/owf-bower",
+  "authors": [
+    "Chris Gross <schtoo@schtoo.com>"
+  ],
+  "description": "Bower package for the Ozone Widget Framework widget js files",
+  "main": "owf-widget-min.js",
+  "keywords": [
+    "OWF"
+  ],
+  "license": "Apache v2",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
